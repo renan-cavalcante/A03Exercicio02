@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A03Exercicio02</string>
+    <string name="consumo_medio">Consumo medio em KM/L</string>
+    <string name="litro_restante">Quantidade de combustivel restante em litros</string>
+    <string name="calc">Calcular</string>
+    <string name="txt_resultado">A autonomia restante é de </string>
+</resources>
